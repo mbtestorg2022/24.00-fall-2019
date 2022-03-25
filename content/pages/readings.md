@@ -76,7 +76,7 @@ Paley, William. “State of the Argument.” Chapter 1 in _Natural Theology_. Ox
 
 ———.   “State of the Argument Continued.” Chapter 2 in _Natural Theology_. Oxford University Press, 2008. ISBN: 9780199535750.
 
-White, Roger. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Argument from Cosmological Fine-Tuning.” (PDF)](http://danielwharris.com/teaching/101online/weeks/15/White.pdf)
+White, Roger. [“The Argument from Cosmological Fine-Tuning.” (PDF)](http://danielwharris.com/teaching/101online/weeks/15/White.pdf)
 
 
 {{< tdclose >}}
@@ -242,7 +242,7 @@ Dualist Accounts of How Things Feel
 {{< tdopen >}}
 
 
-Jackson, Frank. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Epiphenomenal Qualia.” (PDF)](http://www.sfu.ca/~jillmc/JacksonfromJStore.pdf) _Philosophical Quarterly_ 32, no. 127 (1982): 127–36.
+Jackson, Frank. [“Epiphenomenal Qualia.” (PDF)](http://www.sfu.ca/~jillmc/JacksonfromJStore.pdf) _Philosophical Quarterly_ 32, no. 127 (1982): 127–36.
 
 
 {{< tdclose >}}
@@ -324,7 +324,7 @@ Incompatibilism about Free Will and Determinism
 {{< tdopen >}}
 
 
-Van Inwagen, Peter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Incompatibility of Free Will and Determinism.” (PDF)](https://link.springer.com/content/pdf/10.1007/BF01624156.pdf) _Philosophical Studie__s: An International Journal for Philosophy in the Analytic Tradition_ 27, no. 3 (1975): 185–99.
+Van Inwagen, Peter. [“The Incompatibility of Free Will and Determinism.” (PDF)](https://link.springer.com/content/pdf/10.1007/BF01624156.pdf) _Philosophical Studie__s: An International Journal for Philosophy in the Analytic Tradition_ 27, no. 3 (1975): 185–99.
 
 
 {{< tdclose >}}
@@ -348,7 +348,7 @@ Compatibilist Theories of Free Will
 {{< tdopen >}}
 
 
-Frankfurt, Harry G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Freedom of the Will and the Concept of a Person.” (PDF)](http://www.sci.brooklyn.cuny.edu/~schopra/Persons/Frankfurt.pdf) _Journal of Philosophy_ 68, no. 1 (1971): 5–20.
+Frankfurt, Harry G. [“Freedom of the Will and the Concept of a Person.” (PDF)](http://www.sci.brooklyn.cuny.edu/~schopra/Persons/Frankfurt.pdf) _Journal of Philosophy_ 68, no. 1 (1971): 5–20.
 
 _Optional:_
 
@@ -376,7 +376,7 @@ Free Will and Moral Responsibility
 {{< tdopen >}}
 
 
-Strawson, Galen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Impossibility of Moral Responsibility.” (PDF - 2.0MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Impossibility%20of%20Moral%20Responsibility%20-%20Galen%20Strawson.pdf)  _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_ 75, no. 1/2 (1994): 5–24.
+Strawson, Galen. [“The Impossibility of Moral Responsibility.” (PDF - 2.0MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Impossibility%20of%20Moral%20Responsibility%20-%20Galen%20Strawson.pdf)  _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_ 75, no. 1/2 (1994): 5–24.
 
 _Optional:_
 
@@ -438,7 +438,7 @@ Personal Fission
 {{< tdopen >}}
 
 
-Parfit, Derek. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Personal Identity.” (PDF - 5.3MB)](http://home.sandiego.edu/~baber/metaphysics/readings/Parfit.PersonalIdentity.pdf) _Philosophical Review_ 80, no. 1 (1971): 3–27. 
+Parfit, Derek. [“Personal Identity.” (PDF - 5.3MB)](http://home.sandiego.edu/~baber/metaphysics/readings/Parfit.PersonalIdentity.pdf) _Philosophical Review_ 80, no. 1 (1971): 3–27. 
 
 _Optional:_
 
@@ -466,7 +466,7 @@ The Bodily Criterion of Personal Identity over Time
 {{< tdopen >}}
 
 
-Williams, Bernard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Self and the Future.” (PDF)](http://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf) _Philosophical Review_ 79, no. 2 (1970): 161–80.  
+Williams, Bernard. [“The Self and the Future.” (PDF)](http://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf) _Philosophical Review_ 79, no. 2 (1970): 161–80.  
  
 
 
@@ -549,7 +549,7 @@ The Absurd
 {{< tdopen >}}
 
 
-Nagel, Thomas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Absurd.” (PDF - 1MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf) _Journal of Philosophy_ 68, no. 20 (1971): 716–27.
+Nagel, Thomas. [“The Absurd.” (PDF - 1MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf) _Journal of Philosophy_ 68, no. 20 (1971): 716–27.
 
 
 {{< tdclose >}}
@@ -683,7 +683,7 @@ Time Travel
 {{< tdopen >}}
 
 
-Lewis, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Paradoxes of Time Travel.” (PDF)](https://www.csus.edu/indiv/m/merlinos/paradoxes%20of%20time%20travel.pdf) _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.  
+Lewis, David. [“The Paradoxes of Time Travel.” (PDF)](https://www.csus.edu/indiv/m/merlinos/paradoxes%20of%20time%20travel.pdf) _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.  
 
 
 {{< tdclose >}}
