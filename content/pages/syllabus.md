@@ -50,17 +50,86 @@ For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) sectio
 
 _Plagiarism_
 
-As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)
+As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review [“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)
 
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation and oral presentation | 10% |
-| Quizzes | 10% |
-| Paper 1 | 10% |
-| Paper 1 rewrite | 10% |
-| Paper 2 | 15% |
-| Paper 3 | 15% |
-| Final paper | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation and oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 rewrite
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
